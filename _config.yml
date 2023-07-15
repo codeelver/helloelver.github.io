@@ -21,7 +21,8 @@
 title: Elver Blog
 email: codeelver@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog for the elvers in us all.
+  Blog for the elvers in us all. 
+  Made in Chividianville with :green_heart:.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.helloelver.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -30,6 +31,7 @@ url: "https://blog.helloelver.com" # the base hostname & protocol for your site,
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
